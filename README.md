@@ -1,2 +1,2 @@
 # GameConsoles
-The code for the website. &lt;BLANK>
+The code for the website.
